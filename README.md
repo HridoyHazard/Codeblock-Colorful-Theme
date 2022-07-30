@@ -12,13 +12,13 @@ Then Follow These Each Step Properly
 <p align="center">
   <br>
     <img src="ss/1.PNG" height="350px" width="550px"><br>
-   <b>Call Sign</b><br>
+   <b>Go To This Address According To Your Codeblock Appdata Directory </b><br>
     <img src="ss/2.PNG" height="350px" width="550px"><br>
-    <b>Nice Sign</b><br>
+    <b>Copy Theme File To This Directory</b><br>
     <img src="ss/3.PNG" height="350px" width="550px"><br>
-    <b>Start Sign</b><br>
+    <b>Then Go To Codeblock Installation Directory And Open Marked File</b><br>
     <img src="ss/4.PNG" height="350px" width="550px"><br>
-    <b>Stop Sign</b><br>
-    <img src="ss/5.PNG" height="350px" width="550px"><br>
-    <b>Victory Sign</b><br>
+    <b>In Left Open Theme.conf and In Right Open Defult.conf Then Mark Everything And Click Transfer Then Save It</b><br>
+    <img src="ss/5.png" height="350px" width="550px"><br>
+    <b>Now Open Codeblock And See All The Beautiful Theme</b><br>
 </p>
