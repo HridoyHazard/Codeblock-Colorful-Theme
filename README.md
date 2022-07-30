@@ -3,6 +3,7 @@ Codeblock is one of the most popular ide for c/c++, but the problem is it has a 
 
 ## Steps 
 
+Download [color_theme.conf]() From The Repository
 1. Make Sure CodeBlock is ClOSED before making any CHANGES
 2. Make sure to hit SAVE when doing the transfer
 3. If you can't find your default.conf most likely codeblocks is running, KILL it 
