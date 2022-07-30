@@ -1,4 +1,4 @@
-## Codeblock-Colorful-Theme
+<h1 align="center" >Codeblock Colorful Themes</h1>
 Codeblock is one of the most popular ide for c/c++, but the problem is it has a very limited theme and it's really irritating to work in such a light environment. Furthermore, it humpers the programmer's eyes. Wouldn't it be great if you could use a customized theme to decorate it like VSCode and other IDEs? Let's Do it Then.
 
 ## Steps 
